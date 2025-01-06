@@ -1,0 +1,3 @@
+z_str="12"
+w_int=z_str
+print(w_int(type))
